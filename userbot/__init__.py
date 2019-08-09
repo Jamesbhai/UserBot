@@ -86,7 +86,7 @@ WELCOME_MUTE = sb(os.environ.get(
 ))
 
 YOUTUBE_API_KEY = os.environ.get(
-    "YOUTUBE_API_KEY", None
+    "YOUTUBE_API_KEY", 'AIzaSyB5trhFtGtN2uq-OV8tbAMuvO6-oDd7lC4'
     )
 
 SPOTIFY_USERNAME = os.environ.get("SPOTIFY_USERNAME", None)
